@@ -3,7 +3,7 @@
 Student class we need sometimes program to manage our student in class such as their degree, names,  phone number, address, the aim from this help the teacher in his class.
 ## StudentClass.py
 That file can add, modify, remove students which in <pre>SaveData/studentInfo.txt</pre>
-<i>change <pre><b>Student's info Class program </b></pre> folder to <pre><b> Project </b></pre> </i>
+<i>Change The Name Folder <pre><b>Student's info Class program </b></pre> To <pre><b> Project </b></pre> </i>
 ----------------------------------------------------------
 Hi I'm Ahmed Fares my major is Web applications <br> penetration tester And network too <br>
 I'm programmer too so I have great knowledge about: <br>
